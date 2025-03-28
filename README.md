@@ -1,1 +1,1 @@
-# CPU-energy-efficient-scheduling-algorithm
+# Energy-efficient-cpu-scheduling-algorithm
